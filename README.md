@@ -5,5 +5,5 @@ Fake Nixie erlojuak bost pantaila erabiltzen ditu ordua modu paregabean erakuste
 
 Hau guztia lortzeko haimbat lekutatik atera dugu informazioa:
 
-Owendrew github-a    https://github.com/owendrew/fakeNixie/blob/main/README.md!
+Owendrew github-a    https://github.com/owendrew/fakeNixie/blob/main/README.md
 
