@@ -3,7 +3,7 @@ Fake Nixie erlojuak bost pantaila erabiltzen ditu ordua modu paregabean erakuste
 
 # Eskertzak
 
-Hau guztia lortzeko haimbat lekutatik atera dugu informazioa:
+Hau guztia lortzeko hainbat lekutatik atera dugu informazioa:
 
 Owendrew github-a    https://github.com/owendrew/fakeNixie/blob/main/README.md
 
