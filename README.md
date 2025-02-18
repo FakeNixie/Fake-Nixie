@@ -26,3 +26,16 @@ Owendrew github-a    https://github.com/owendrew/fakeNixie/blob/main/README.md
 - [Pantailak tapatzeko kupulak](https://www.temu.com/es/kuiper/un9.html?subj=coupon-un&_bg_fs=1&_p_jump_id=895&_x_vst_scene=adg&goods_id=601099634148124&sku_id=17592652742935&adg_ctx=a-3e6b91c4~c-48926975~f-9c72e498&_x_ads_sub_channel=shopping&_p_rfs=1&_x_ns_prz_type=-1&_x_ns_sku_id=17592652742935&_x_ns_gid=601099634148124&mrk_rec=1&_x_ads_channel=google&_x_gmc_account=742367270&_x_login_type=Google&_x_ads_account=4438999299&_x_ads_set=20564658662&_x_ads_id=159325185088&_x_ads_creative_id=674377931467&_x_ns_source=g&_x_ns_gclid=Cj0KCQiA_NC9BhCkARIsABSnSTZ2uz9OS2V6xeKOOVSZX851rEgGwYTbiT5zgC-U0reCbOs-mjrWVcIaAmQKEALw_wcB&_x_ns_placement=&_x_ns_match_type=&_x_ns_ad_position=&_x_ns_product_id=17592652742935&_x_ns_target=&_x_ns_devicemodel=&_x_ns_wbraid=Cj4KCAiA2cu9BhBTEi4Aad609Cg3Z2e3BUHVpfq7W9BRAmuR1IYoEjFvkv3kcpYrJfTKDuFiKHyj9lZ-GgIasA&_x_ns_gbraid=0AAAAAo4mICE07tS68k-xC_ac7Fwz8A_eg&_x_ns_targetid=pla-2091589665000&gad_source=1&gclid=Cj0KCQiA_NC9BhCkARIsABSnSTZ2uz9OS2V6xeKOOVSZX851rEgGwYTbiT5zgC-U0reCbOs-mjrWVcIaAmQKEALw_wcB) (5 unitate)
 
 - [Portapilas 2 AA](https://es.rs-online.com/web/p/portapilas/1854604?cm_mmc=ES-PLA-DS3A-_-google-_-CSS_ES_ES_Pmax_RS+PRO-_--_-1854604&matchtype=&&gad_source=1&gclid=Cj0KCQiA_NC9BhCkARIsABSnSTYtC_CpVrhS9ebgAUzcrLOFOdoRWmweOqMXp6LaKxzXJyts6neNAzcaAllREALw_wcB&gclsrc=aw.ds)  (2 unitate)
+
+# Pantailen Muntaketa
+
+![image](https://github.com/user-attachments/assets/aff479ca-8f9e-4b8a-a7ba-7f6454a1d367)
+
+Hasteko pataillak konektatzen hasi ginen jakiteko nola funtzionatzen zuten. Goian ikusi dezakezue guk egindako eskema bat ikusi daitekena nola konektatu eta ze pinetara eraman pantailen kable bakoitza. Eskema hori egin genuen ez genuelako datasheet argirik aurkitzen.
+
+# Konexio Esquema
+
+![image](https://github.com/user-attachments/assets/3114085d-0b17-4022-b7e7-bbfad8fa33f3)
+
+Goiko irudian ikusi dezakezue guk egindako konexio esquema bertan ESP32-ra nola konektatu dituegun pantailak ikusi dezakezue. 5 pantailak berdin dijoazte konektatutak aldatzen den pin bakarra 8.pina da dela informazioa eramaten duena.
+
