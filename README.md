@@ -39,7 +39,7 @@ Hasteko pataillak konektatzen hasi ginen jakiteko nola funtzionatzen zuten. Goia
 
 Goiko irudian ikusi dezakezue guk egindako konexio esquema bertan ESP32-ra nola konektatu dituegun pantailak ikusi dezakezue. 5 pantailak berdin dijoazte konektatutak aldatzen den pin bakarra 8.pina da dela informazioa eramaten duena.Hau lortzeko Proteus aplikazioa erabili dugu.
 
-# PCB Diseinua
+# [PCB Diseinua](https://github.com/FakeNixie/Fake-Nixie/tree/main/Dokumentazioa/PCB_Artxiboak)
 
 ![image](https://github.com/user-attachments/assets/d187a726-ffe8-499f-8b25-47bf2ef6fd76) ![image](https://github.com/user-attachments/assets/52a45151-aee1-48ad-89c3-de00aa218f60)
 
