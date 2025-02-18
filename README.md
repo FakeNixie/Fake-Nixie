@@ -45,7 +45,7 @@ Goiko irudian ikusi dezakezue guk egindako konexio esquema bertan ESP32-ra nola 
 
 Gure hurrengo pausua esquemaren pcb-a egitea izan zen hau egin genuen ez kablerik solte gelditzeko eta dena modu ordenatu batean gelditzeko. Hau lortzeko Proteus aplikazioa erabili dugu.
 
-# Kodigoa
+# [Kodigoa](https://github.com/FakeNixie/Fake-Nixie/tree/main/Dokumentazioa/Arduino)
 ![image](https://github.com/user-attachments/assets/7f8ca756-9e86-4262-abbb-3f68a19a38e5)
 
 Gure kodea hasiera batean ordua erakusten du zuk emandako wifiaren bidez, zure eremuko zona hordua hartzen du eta pantailetan erakusten du. Zure erlojua beti horduan egongo da. Gero aplikazioaren bitertez bi estilo ezberdin ditugu sartutak kodigoan eta aplikazioaren bidez kodigoan sortutako web era sartu eta estiloz aldatu dezakezu. Gainera web-aren bitartez beste erloju normal batzuen bezala cronometro bat martxan jarri dezakezu eta zure erlojuan bistaratu.
