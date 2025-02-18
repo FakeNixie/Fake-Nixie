@@ -48,4 +48,16 @@ Gure hurrengo pausua esquemaren pcb-a egitea izan zen hau egin genuen ez kableri
 # Kodigoa
 ![image](https://github.com/user-attachments/assets/7f8ca756-9e86-4262-abbb-3f68a19a38e5)
 
-Gure kodea 
+Gure kodea hasiera batean 
+
+
+# Elikadura
+
+![image](https://github.com/user-attachments/assets/74cdc955-89e4-493e-a47e-16d6847cf465)
+
+Muntaiekin mukatzeko elikadura bat egin genuen gure proiektua ez egoteko konektatuta ordenagailura hau lortzeko bi portapilas hartu genituen eta kablea konektatu genuen eta azkenian guk piztu eta itzaltzeko nahi genuenean interruptre bat gehitu genuen.
+
+# Aplikazioa
+![image](https://github.com/user-attachments/assets/5a6a522a-c2a7-49e2-8022-3eded205d2f2)
+
+Azkenik aplikazioa egin genuen aplikazioa ez da aplkazio normal bat sites bat da ip batera eramaten dizuena. Honekin lortzen dugu aplikazio moduka bat edukkitzea bidaltzen dizuena guk nahi dugun web-era. Aplikazio honetan ikusi dezakezu hordua eta aldatu dezakezu estiloz erlojua zure gustura gelditzeko.
