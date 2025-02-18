@@ -27,13 +27,13 @@ Owendrew github-a  https://github.com/owendrew/fakeNixie/blob/main/README.md
 
 - [Portapilas 2 AA](https://es.rs-online.com/web/p/portapilas/1854604?cm_mmc=ES-PLA-DS3A-_-google-_-CSS_ES_ES_Pmax_RS+PRO-_--_-1854604&matchtype=&&gad_source=1&gclid=Cj0KCQiA_NC9BhCkARIsABSnSTYtC_CpVrhS9ebgAUzcrLOFOdoRWmweOqMXp6LaKxzXJyts6neNAzcaAllREALw_wcB&gclsrc=aw.ds)  (2 unitate)
 
-# Pantailen Muntaketa
+# [Pantailen Muntaketa](https://github.com/FakeNixie/Fake-Nixie/tree/main/Dokumentazioa/Eskemak)
 
 ![image](https://github.com/user-attachments/assets/aff479ca-8f9e-4b8a-a7ba-7f6454a1d367)
 
 Hasteko pataillak konektatzen hasi ginen jakiteko nola funtzionatzen zuten. Goian ikusi dezakezue guk egindako eskema bat ikusi daitekena nola konektatu eta ze pinetara eraman pantailen kable bakoitza. Eskema hori egin genuen ez genuelako datasheet argirik aurkitzen.
 
-# Konexio Esquema
+# [Konexio Esquema](https://github.com/FakeNixie/Fake-Nixie/tree/main/Dokumentazioa/Eskemak)
 
 ![image](https://github.com/user-attachments/assets/3114085d-0b17-4022-b7e7-bbfad8fa33f3)
 
