@@ -45,3 +45,7 @@ Goiko irudian ikusi dezakezue guk egindako konexio esquema bertan ESP32-ra nola 
 
 Gure hurrengo pausua esquemaren pcb-a egitea izan zen hau egin genuen ez kablerik solte gelditzeko eta dena modu ordenatu batean gelditzeko.
 
+# Kodigoa
+![image](https://github.com/user-attachments/assets/7f8ca756-9e86-4262-abbb-3f68a19a38e5)
+
+Gure kodea 
