@@ -56,7 +56,7 @@ Gure kodea hasiera batean ordua erakusten du zuk emandako wifiaren bidez, zure e
 
 Muntaiekin mukatzeko elikadura bat egin genuen gure proiektua ez egoteko konektatuta ordenagailura hau lortzeko bi portapilas hartu genituen eta kablea konektatu genuen eta azkenian guk piztu eta itzaltzeko nahi genuenean interruptre bat gehitu genuen.
 
-# Aplikazioa
+# [Aplikazioa](https://sites.google.com/d/18WV8YJMY_IQXxaLhMr7m3VHMnpldd2XD/p/1QMYbZgTesbHUEUoDU0BAqGxNVekRPJkL/edit)
 ![image](https://github.com/user-attachments/assets/5a6a522a-c2a7-49e2-8022-3eded205d2f2)
 
 Azkenik aplikazioa egin genuen aplikazioa ez da aplkazio normal bat sites bat da ip batera eramaten dizuena. Honekin lortzen dugu aplikazio moduka bat edukkitzea bidaltzen dizuena guk nahi dugun web-era. Aplikazio honetan ikusi dezakezu hordua eta aldatu dezakezu estiloz erlojua zure gustura gelditzeko, ere kronometro bat hasi dezakezu botoi batekin eta gelditu.
