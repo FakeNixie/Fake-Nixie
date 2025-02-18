@@ -9,20 +9,20 @@ Owendrew github-a    https://github.com/owendrew/fakeNixie/blob/main/README.md
 
 # Materiala
 
-- ESP32 (unitate 1)
+- [ESP32](https://www.amazon.es/AZDelivery-NodeMCU-ESP-WROOM-32-Tablero-Desarrollo/dp/B071P98VTG/ref=sr_1_1_sspa?adgrpid=130187931296&dib=eyJ2IjoiMSJ9.FnOg5GKRhrrxaQ7ATiBcA_LRJBevbhQHN_ckx39nr2GE1vAHDkrTg2K0F6L4EZ1LDR5ulupm2BGsVBemtBBxtBJtA4KnUVqCC09FDXS-gbGhcdpYiD2zai0C6kqTskkHW9Dkjcd2P2ObUrdWaqmIfJ3CB9N4p-FVsj2NRc5MxrYsDWNTtNcTUZ_AQUUiT178_erb_uJkPwxVmQoU1nQEP_7kNDc3r3BlKzwOSwxwtS09_ixt866iLZgk1NMmjxYP4K7QLp8NowRniDJdWJ7-TLsMahd7DokhrClchdVg8jQ.Vlww67knfSUz1B23Z8c-kOPZcMumci76yrW73qmi6TY&dib_tag=se&hvadid=601382588630&hvdev=c&hvlocphy=9221446&hvnetw=g&hvqmt=e&hvrand=13429030853186878710&hvtargid=kwd-895177109478&hydadcr=19375_2264602&keywords=esp32%2Bcomprar&qid=1739867958&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1) (unitate 1)
 
-- "ST7789 1.14 inch TFT LCD IPS" (5 unitate)
+- ["ST7789 1.14 inch TFT LCD IPS"](https://www.amazon.es/Fiorky-135x240-Pantalla-pantalla-Interfaz/dp/B0D3C7NP6Z?th=1) (5 unitate)
 
-- 2x4 pines macho de ángulo recto (6 unitate)
+- [2x4 pines macho de ángulo recto](https://www.amazon.es/LON0167-DC3-8PL-conector-Winkelstecker-IDC-Box-Header/dp/B09FF1Y3KF) (6 unitate)
 
-- "FPC FFC Cable 8 PIN 0.5mm pitch konektorea" (5 unitate)
+- ["FPC FFC Cable 8 PIN 0.5mm pitch konektorea"](https://www.amazon.es/dp/B09XMF3QMP/ref=sspa_dk_detail_5?psc=1&pd_rd_i=B09XMF3QMP&pd_rd_w=qWHnr&content-id=amzn1.sym.d9fd07ad-95b5-4079-8602-de55e6918bc7&pf_rd_p=d9fd07ad-95b5-4079-8602-de55e6918bc7&pf_rd_r=QNB533FY2HWJMTRD2XHX&pd_rd_wg=N7F1a&pd_rd_r=8fffe5b7-ce0b-40e3-97cc-32bcca9883dc&s=electronics&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw) (5 unitate)
 
-- 1x10 male header pins (4 unitate)
+- [1x10 male header pins](https://es.farnell.com/wurth-elektronik/61301011121/macho-2-54-mm-pin-10-v-as/dp/1841229?srsltid=AfmBOoohEvH4zGba-wI5Lr7jzcLDaATOVk_Ns8ygC9LR6aUuoJAROVMa) (4 unitate)
 
-- 2x4 female header sockets (2,54mm pitch) (5 unitate)
+- [2x4 female header sockets (2,54mm pitch)](https://es.aliexpress.com/item/1005004372795403.html?gps-id=platformRecommendH5ForSpider&pvid=5058ee50-df86-4ca0-9f69-127fb1ced0d3&_t=gps-id:platformRecommendH5ForSpider,pvid:5058ee50-df86-4ca0-9f69-127fb1ced0d3,tpp_buckets:668%232846%238108%231977&pdp_npi=4%40dis%21EUR%210.82%210.82%21%21%210.88%210.88%21%40210318c317212735906453162efde5%21-1%21rec%21ES%21%21AB) (5 unitate)
 
-- Micro USB PSU kablea (unitate 1)
+- [Micro USB PSU kablea](https://tienda.bricogeek.com/cables/1471-cable-usb-micro-b-corto-85cm.html?_gl=1*1uiv34e*_up*MQ..&gclid=Cj0KCQiAgJa6BhCOARIsAMiL7V_qXfVjoZB_y0qWb7v6-4lT60nsX6upKu_WkkXCQMTkMG6tsh5sPBsaAuLSEALw_wcB) (unitate 1)
 
-- Pantailak tapatzeko kupulak (5 unitate)
+- [Pantailak tapatzeko kupulak](https://www.temu.com/es/kuiper/un9.html?subj=coupon-un&_bg_fs=1&_p_jump_id=895&_x_vst_scene=adg&goods_id=601099634148124&sku_id=17592652742935&adg_ctx=a-3e6b91c4~c-48926975~f-9c72e498&_x_ads_sub_channel=shopping&_p_rfs=1&_x_ns_prz_type=-1&_x_ns_sku_id=17592652742935&_x_ns_gid=601099634148124&mrk_rec=1&_x_ads_channel=google&_x_gmc_account=742367270&_x_login_type=Google&_x_ads_account=4438999299&_x_ads_set=20564658662&_x_ads_id=159325185088&_x_ads_creative_id=674377931467&_x_ns_source=g&_x_ns_gclid=Cj0KCQiA_NC9BhCkARIsABSnSTZ2uz9OS2V6xeKOOVSZX851rEgGwYTbiT5zgC-U0reCbOs-mjrWVcIaAmQKEALw_wcB&_x_ns_placement=&_x_ns_match_type=&_x_ns_ad_position=&_x_ns_product_id=17592652742935&_x_ns_target=&_x_ns_devicemodel=&_x_ns_wbraid=Cj4KCAiA2cu9BhBTEi4Aad609Cg3Z2e3BUHVpfq7W9BRAmuR1IYoEjFvkv3kcpYrJfTKDuFiKHyj9lZ-GgIasA&_x_ns_gbraid=0AAAAAo4mICE07tS68k-xC_ac7Fwz8A_eg&_x_ns_targetid=pla-2091589665000&gad_source=1&gclid=Cj0KCQiA_NC9BhCkARIsABSnSTZ2uz9OS2V6xeKOOVSZX851rEgGwYTbiT5zgC-U0reCbOs-mjrWVcIaAmQKEALw_wcB) (5 unitate)
 
 - [Portapilas 2 AA](https://es.rs-online.com/web/p/portapilas/1854604?cm_mmc=ES-PLA-DS3A-_-google-_-CSS_ES_ES_Pmax_RS+PRO-_--_-1854604&matchtype=&&gad_source=1&gclid=Cj0KCQiA_NC9BhCkARIsABSnSTYtC_CpVrhS9ebgAUzcrLOFOdoRWmweOqMXp6LaKxzXJyts6neNAzcaAllREALw_wcB&gclsrc=aw.ds)  (2 unitate)
