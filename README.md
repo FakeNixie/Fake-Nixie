@@ -5,7 +5,7 @@ Fake Nixie erlojuak bost pantaila erabiltzen ditu ordua modu paregabean erakuste
 
 Hau guztia lortzeko hainbat lekutatik atera dugu informazioa:
 
-Owendrew github-a    https://github.com/owendrew/fakeNixie/blob/main/README.md
+Owendrew github-a  https://github.com/owendrew/fakeNixie/blob/main/README.md
 
 # Materiala
 
@@ -38,4 +38,10 @@ Hasteko pataillak konektatzen hasi ginen jakiteko nola funtzionatzen zuten. Goia
 ![image](https://github.com/user-attachments/assets/3114085d-0b17-4022-b7e7-bbfad8fa33f3)
 
 Goiko irudian ikusi dezakezue guk egindako konexio esquema bertan ESP32-ra nola konektatu dituegun pantailak ikusi dezakezue. 5 pantailak berdin dijoazte konektatutak aldatzen den pin bakarra 8.pina da dela informazioa eramaten duena.
+
+# PCB Diseinua
+
+![image](https://github.com/user-attachments/assets/d187a726-ffe8-499f-8b25-47bf2ef6fd76) ![image](https://github.com/user-attachments/assets/52a45151-aee1-48ad-89c3-de00aa218f60)
+
+Gure hurrengo pausua esquemaren pcb-a egitea izan zen hau egin genuen ez kablerik solte gelditzeko eta dena modu ordenatu batean gelditzeko.
 
