@@ -37,19 +37,18 @@ Hasteko pataillak konektatzen hasi ginen jakiteko nola funtzionatzen zuten. Goia
 
 ![image](https://github.com/user-attachments/assets/3114085d-0b17-4022-b7e7-bbfad8fa33f3)
 
-Goiko irudian ikusi dezakezue guk egindako konexio esquema bertan ESP32-ra nola konektatu dituegun pantailak ikusi dezakezue. 5 pantailak berdin dijoazte konektatutak aldatzen den pin bakarra 8.pina da dela informazioa eramaten duena.
+Goiko irudian ikusi dezakezue guk egindako konexio esquema bertan ESP32-ra nola konektatu dituegun pantailak ikusi dezakezue. 5 pantailak berdin dijoazte konektatutak aldatzen den pin bakarra 8.pina da dela informazioa eramaten duena.Hau lortzeko Proteus aplikazioa erabili dugu.
 
 # PCB Diseinua
 
 ![image](https://github.com/user-attachments/assets/d187a726-ffe8-499f-8b25-47bf2ef6fd76) ![image](https://github.com/user-attachments/assets/52a45151-aee1-48ad-89c3-de00aa218f60)
 
-Gure hurrengo pausua esquemaren pcb-a egitea izan zen hau egin genuen ez kablerik solte gelditzeko eta dena modu ordenatu batean gelditzeko.
+Gure hurrengo pausua esquemaren pcb-a egitea izan zen hau egin genuen ez kablerik solte gelditzeko eta dena modu ordenatu batean gelditzeko. Hau lortzeko Proteus aplikazioa erabili dugu.
 
 # Kodigoa
 ![image](https://github.com/user-attachments/assets/7f8ca756-9e86-4262-abbb-3f68a19a38e5)
 
-Gure kodea hasiera batean 
-
+Gure kodea hasiera batean ordua erakusten du zuk emandako wifiaren bidez, zure eremuko zona hordua hartzen du eta pantailetan erakusten du. Zure erlojua beti horduan egongo da. Gero aplikazioaren bitertez bi estilo ezberdin ditugu sartutak kodigoan eta aplikazioaren bidez kodigoan sortutako web era sartu eta estiloz aldatu dezakezu. Gainera web-aren bitartez beste erloju normal batzuen bezala cronometro bat martxan jarri dezakezu eta zure erlojuan bistaratu.
 
 # Elikadura
 
@@ -60,4 +59,4 @@ Muntaiekin mukatzeko elikadura bat egin genuen gure proiektua ez egoteko konekta
 # Aplikazioa
 ![image](https://github.com/user-attachments/assets/5a6a522a-c2a7-49e2-8022-3eded205d2f2)
 
-Azkenik aplikazioa egin genuen aplikazioa ez da aplkazio normal bat sites bat da ip batera eramaten dizuena. Honekin lortzen dugu aplikazio moduka bat edukkitzea bidaltzen dizuena guk nahi dugun web-era. Aplikazio honetan ikusi dezakezu hordua eta aldatu dezakezu estiloz erlojua zure gustura gelditzeko.
+Azkenik aplikazioa egin genuen aplikazioa ez da aplkazio normal bat sites bat da ip batera eramaten dizuena. Honekin lortzen dugu aplikazio moduka bat edukkitzea bidaltzen dizuena guk nahi dugun web-era. Aplikazio honetan ikusi dezakezu hordua eta aldatu dezakezu estiloz erlojua zure gustura gelditzeko, ere kronometro bat hasi dezakezu botoi batekin eta gelditu.
