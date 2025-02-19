@@ -61,4 +61,4 @@ Muntaiekin bukatzeko elikatzeko modu bat egin genuen gure proiektua ez egoteko o
 # [Aplikazioa](https://sites.google.com/d/18WV8YJMY_IQXxaLhMr7m3VHMnpldd2XD/p/1QMYbZgTesbHUEUoDU0BAqGxNVekRPJkL/edit)
 ![image](https://github.com/user-attachments/assets/5a6a522a-c2a7-49e2-8022-3eded205d2f2)
 
-Bukatzeko aplikazioa bat egin genuen. Aplikazioa ez da aplkazio normal bat, sites bat da ip helbide batera eramaten dizuena. Honekin lortzen dugu aplikazio moduko bat edukitzera erljua konfiguratzeko web-era bideratzen diguena. Aplikazio honetan hordua ikusi dezakegu eta estiloz aldatu deazkegu erlojua gure gustura gelditzeko, kronometro bat hasi dezakezu ere botoi batekin eta gelditu.
+Bukatzeko aplikazioa bat egin genuen. Aplikazioa ez da aplkazio normal bat, sites bat da ip helbide batera eramaten dizuena. Honekin lortzen dugu aplikazio moduko bat edukitzera erlojua konfiguratzeko web-era bideratzen diguena. Aplikazio honetan ordua ikusi dezakegu eta estiloz aldatu deazkegu erlojua gure gustura gelditzeko, kronometro bat hasi dezakezu ere botoi batekin eta gelditu.
