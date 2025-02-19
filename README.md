@@ -36,7 +36,7 @@ ESP32ak eta pantailak imagenak erakusteko irudi konbertidorea: https://marlinfw.
 
 Hasteko, patailak konektatzen hasi ginen nola funtzionatzen zuten jakiteko. Goian ikusi dezakezue guk egindako eskema, bertan nola konektatu eta ze pinetara eraman genituen pantailen kable bakoitza erakusten da. Eskema hori guk egin genuen ez genuelako datasheet argirik aurkitu.
 
-# [Konexio Esquema](https://github.com/FakeNixie/Fake-Nixie/tree/main/Dokumentazioa/Eskemak)
+# [Konexio Eskema](https://github.com/FakeNixie/Fake-Nixie/tree/main/Dokumentazioa/Eskemak)
 
 ![image](https://github.com/user-attachments/assets/3114085d-0b17-4022-b7e7-bbfad8fa33f3)
 
@@ -48,7 +48,7 @@ Goiko irudian ikusi dezakezue guk egindako konexio eskema. Bertan, ESP32-ra nola
 
 Hurrengo urratsa, eskemaren pcb-a egitea izan zen. PCB-a egin genuen ez kablerik erabiltzeko eta dena modu ordenatu batean gelditzeko, horrela interferentziak saiestuko genituen eta konexio arazoak ekidituko genituen. Hau egiteko ere Proteus programa erabili dugu.
 
-# [Kodigoa](https://github.com/FakeNixie/Fake-Nixie/tree/main/Dokumentazioa/Arduino)
+# [Kodea](https://github.com/FakeNixie/Fake-Nixie/tree/main/Dokumentazioa/Arduino)
 ![image](https://github.com/user-attachments/assets/7f8ca756-9e86-4262-abbb-3f68a19a38e5)
 
 Gure kodeak hasiera batean ordua erakusten zuen bakarrik eta ondoren diseinu ezberdinak gehitu dizkiogu. Konektatutako wifiaren bidez, gauden ordu-eremuko ordua hartzen du eta pantailetan erakusten du. Gainera, ordua WiFi bidez hartzen duenez erlojua beti eguneratuta egongo da. Gero, aplikazioa baten bitartez bi estilo ezberdin ditugu sartuta kodigoan eta aplikazioaren bidez kodigoan sortutako web orrialdera sartu eta estiloz aldatu dezakezu.
