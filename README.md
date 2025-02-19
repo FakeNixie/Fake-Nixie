@@ -7,7 +7,7 @@ Hau guztia lortzeko hainbat lekutatik atera dugu informazioa, baino gehien bat O
 
 Owendrew github-a  https://github.com/owendrew/fakeNixie/blob/main/README.md
 
-ESP32ak eta pantailak imagenak erakusteko irudi konnertidorea: https://marlinfw.org/tools/rgb565/converter.html
+ESP32ak eta pantailak imagenak erakusteko irudi konbertidorea: https://marlinfw.org/tools/rgb565/converter.html
 
 
 # Materiala
