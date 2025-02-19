@@ -46,7 +46,7 @@ Goiko irudian ikusi dezakezue guk egindako konexio esquema. Bertan ESP32-ra nola
 
 ![image](https://github.com/user-attachments/assets/d187a726-ffe8-499f-8b25-47bf2ef6fd76) ![image](https://github.com/user-attachments/assets/52a45151-aee1-48ad-89c3-de00aa218f60)
 
-Gure hurrengo pausua esquemaren pcb-a egitea izan zen. PCB-a egin genuen ez kablerik erabilteko eta dena modu ordenatu batean gelditzeko, horrela interferentziak saiestuko genituen eta konexio arazoak ekidituko genituen. Hau egiteko ere Proteus aplikazioa erabili dugu.
+Gure hurrengo pausua esquemaren pcb-a egitea izan zen. PCB-a egin genuen ez kablerik erabiltzeko eta dena modu ordenatu batean gelditzeko, horrela interferentziak saiestuko genituen eta konexio arazoak ekidituko genituen. Hau egiteko ere Proteus aplikazioa erabili dugu.
 
 # [Kodigoa](https://github.com/FakeNixie/Fake-Nixie/tree/main/Dokumentazioa/Arduino)
 ![image](https://github.com/user-attachments/assets/7f8ca756-9e86-4262-abbb-3f68a19a38e5)
