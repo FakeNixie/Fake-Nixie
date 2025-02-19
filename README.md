@@ -1,5 +1,5 @@
 # Fake-Nixie
-Fake Nixie erlojuak bost pantaila erabiltzen ditu ordua modu paregabean erakusteko Nixie balbula tradizionalak erabili ordez. Horietako Bi pantailek orduak adierazten dituzte, beste bi minutuak, eta pantaila gehigarri batek bisualki bereizten ditu orduak eta minutuak 2 puntu karakteristikoak erakutsiz, efektu bisual erakargarri bat sortuz.
+Fake Nixie erlojuak bost pantaila erabiltzen ditu ordua modu paregabean erakusteko Nixie balbula tradizionalak erabili ordez. Horietako bi pantailek ordua adierazten dute, beste bi pantailek minutuak, eta pantaila gehigarri batek bisualki bereizten ditu orduak eta minutuak 2 puntu karakteristikoak erakutsiz, efektu bisual erakargarri bat sortuz.
 
 # Eskertzak
 
@@ -34,31 +34,31 @@ ESP32ak eta pantailak imagenak erakusteko irudi konbertidorea: https://marlinfw.
 
 ![image](https://github.com/user-attachments/assets/aff479ca-8f9e-4b8a-a7ba-7f6454a1d367)
 
-Hasteko pataillak konektatzen hasi ginen jakiteko nola funtzionatzen zuten. Goian ikusi dezakezue guk egindako eskema bat, bertan  nola konektatu eta ze pinetara eraman genituen pantailen kable bakoitza erakusten du. Eskema hori egin guk egin genuen ez genuelako datasheet argirik aurkitzen.
+Hasteko, patailak konektatzen hasi ginen nola funtzionatzen zuten jakiteko. Goian ikusi dezakezue guk egindako eskema, bertan nola konektatu eta ze pinetara eraman genituen pantailen kable bakoitza erakusten da. Eskema hori guk egin genuen ez genuelako datasheet argirik aurkitu.
 
 # [Konexio Esquema](https://github.com/FakeNixie/Fake-Nixie/tree/main/Dokumentazioa/Eskemak)
 
 ![image](https://github.com/user-attachments/assets/3114085d-0b17-4022-b7e7-bbfad8fa33f3)
 
-Goiko irudian ikusi dezakezue guk egindako konexio esquema. Bertan ESP32-ra nola konektatu dituegun pantailak ikusi dezakezue. 5 pantailak pin berdinetara dijoazte konektatutak aldatzen den pin bakarra 8.pina da. Pin hoenk, informazioa eramaten duena, hau da, pantaiak rekusten duen irudi bakoitzak behar duen informazioa pin horretatik sartuko da. konexio guztia irudikatzeko eta eskema egiteko Proteus aplikazioa erabili dugu.
+Goiko irudian ikusi dezakezue guk egindako konexio eskema. Bertan, ESP32-ra nola konektatu ditugun pantailak ikusi dezakezue. 5 pantailen konexio guztiak pin berdinetara doaz 8. pina ezik. Pin honek, informazioa eramaten du, hau da, pantaiak rekusten duen irudi bakoitzak behar duen informazioa pin horretatik sartuko da. Konexio guztiak irudikatzeko eta eskema egiteko Proteus programa erabili dugu.
 
 # [PCB Diseinua](https://github.com/FakeNixie/Fake-Nixie/tree/main/Dokumentazioa/PCB_Artxiboak)
 
 ![image](https://github.com/user-attachments/assets/d187a726-ffe8-499f-8b25-47bf2ef6fd76) ![image](https://github.com/user-attachments/assets/52a45151-aee1-48ad-89c3-de00aa218f60)
 
-Gure hurrengo pausua esquemaren pcb-a egitea izan zen. PCB-a egin genuen ez kablerik erabiltzeko eta dena modu ordenatu batean gelditzeko, horrela interferentziak saiestuko genituen eta konexio arazoak ekidituko genituen. Hau egiteko ere Proteus aplikazioa erabili dugu.
+Hurrengo urratsa, eskemaren pcb-a egitea izan zen. PCB-a egin genuen ez kablerik erabiltzeko eta dena modu ordenatu batean gelditzeko, horrela interferentziak saiestuko genituen eta konexio arazoak ekidituko genituen. Hau egiteko ere Proteus programa erabili dugu.
 
 # [Kodigoa](https://github.com/FakeNixie/Fake-Nixie/tree/main/Dokumentazioa/Arduino)
 ![image](https://github.com/user-attachments/assets/7f8ca756-9e86-4262-abbb-3f68a19a38e5)
 
-Gure kodea hasiera batean ordua erakusten zuen bakarrik zuk emandako wifiaren bidez, zure ordu-eremuko ordua hartzen du eta pantailetan erakusten du gainera ordua WiFi bidez hartzen duenez erlojua beti orduan egongo da. Gero, aplikazioa baten bitertez bi estilo ezberdin ditugu sartutak kodigoan eta aplikazioaren bidez kodigoan sortutako web era sartu eta estiloz aldatu dezakezu.
+Gure kodeak hasiera batean ordua erakusten zuen bakarrik eta ondoren diseinu ezberdinak gehitu dizkiogu. Konektatutako wifiaren bidez, gauden ordu-eremuko ordua hartzen du eta pantailetan erakusten du. Gainera, ordua WiFi bidez hartzen duenez erlojua beti eguneratuta egongo da. Gero, aplikazioa baten bitartez bi estilo ezberdin ditugu sartuta kodigoan eta aplikazioaren bidez kodigoan sortutako web orrialdera sartu eta estiloz aldatu dezakezu.
 
 # Elikadura
 
 ![image](https://github.com/user-attachments/assets/74cdc955-89e4-493e-a47e-16d6847cf465)
 
-Muntaiekin bukatzeko elikatzeko modu bat egin genuen gure proiektua ez egoteko ordenagailura konektatuta donebora guztian, hau lortzeko bi portapilas hartu genituen eta 4 pilako portapilas batean bihurtu genuen. Hoenk 6V-ko tentsioa hematen dio ESP32ari eta piztuta egon daiteke edozien tokitan ordenagailuara konektatuta eduki gabe.
+Muntaiarekin bukatzeko, elikadura gehitu genien, gure proiektua ez egoteko ordenagailura konektatuta donbora guztian. Hau lortzeko bi portapilas hartu genituen eta 4 pilako portapilas batean bihurtu genuen. Honek 6V-ko tentsioa ematen dio ESP32 kontrolagailuari eta piztuta egon daiteke edozien tokitan ordenagailura konektatuta eduki gabe.
 # [Aplikazioa](https://sites.google.com/d/18WV8YJMY_IQXxaLhMr7m3VHMnpldd2XD/p/1QMYbZgTesbHUEUoDU0BAqGxNVekRPJkL/edit)
-![image](https://github.com/user-attachments/assets/5a6a522a-c2a7-49e2-8022-3eded205d2f2)
+![image](https://github.com/user-attachments/assets/901a4fca-ccc6-482d-8716-92e97092bd47)
 
-Bukatzeko aplikazioa bat egin genuen. Aplikazioa ez da aplkazio normal bat, sites bat da ip helbide batera eramaten dizuena. Honekin lortzen dugu aplikazio moduko bat edukitzera erlojua konfiguratzeko web-era bideratzen diguena. Aplikazio honetan ordua ikusi dezakegu eta estiloz aldatu deazkegu erlojua gure gustura gelditzeko.
+Bukatzeko, Site formatuko aplikazio bat egin dugu. Honekin erlojua konfiguratzeko modu erraz bat eskeintzen dugu, web-era bideratzen diguna. Aplikazio honekin, ordua ikusi dezakegu eta estiloz aldatu deazkegu erlojua gure gustura gelditzeko.
