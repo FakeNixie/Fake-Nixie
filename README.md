@@ -1,11 +1,13 @@
 # Fake-Nixie
-Fake Nixie erlojuak bost pantaila erabiltzen ditu ordua modu paregabean erakusteko. Bi pantailek orduak adierazten dituzte, beste bik minutuak, eta pantaila gehigarri batek bisualki bereizten ditu orduak eta minutuak, efektu bisual erakargarria sortuz.
+Fake Nixie erlojuak bost pantaila erabiltzen ditu ordua modu paregabean erakusteko Nixie balbula tradizionalak erabili ordez. Horietako Bi pantailek orduak adierazten dituzte, beste bi minutuak, eta pantaila gehigarri batek bisualki bereizten ditu orduak eta minutuak 2 puntu karakteristikoak erakutsiz, efektu bisual erakargarri bat sortuz.
 
 # Eskertzak
 
-Hau guztia lortzeko hainbat lekutatik atera dugu informazioa:
+Hau guztia lortzeko hainbat lekutatik atera dugu informazioa, baino gehien bat Owenderew-k egindako github-etik atera dugu:
 
 Owendrew github-a  https://github.com/owendrew/fakeNixie/blob/main/README.md
+ESP32ak eta pantailak imagenak erakusteko irudi konnertidorea: https://marlinfw.org/tools/rgb565/converter.html
+
 
 # Materiala
 
@@ -31,32 +33,31 @@ Owendrew github-a  https://github.com/owendrew/fakeNixie/blob/main/README.md
 
 ![image](https://github.com/user-attachments/assets/aff479ca-8f9e-4b8a-a7ba-7f6454a1d367)
 
-Hasteko pataillak konektatzen hasi ginen jakiteko nola funtzionatzen zuten. Goian ikusi dezakezue guk egindako eskema bat ikusi daitekena nola konektatu eta ze pinetara eraman pantailen kable bakoitza. Eskema hori egin genuen ez genuelako datasheet argirik aurkitzen.
+Hasteko pataillak konektatzen hasi ginen jakiteko nola funtzionatzen zuten. Goian ikusi dezakezue guk egindako eskema bat, bertan  nola konektatu eta ze pinetara eraman genituen pantailen kable bakoitza erakusten du. Eskema hori egin guk egin genuen ez genuelako datasheet argirik aurkitzen.
 
 # [Konexio Esquema](https://github.com/FakeNixie/Fake-Nixie/tree/main/Dokumentazioa/Eskemak)
 
 ![image](https://github.com/user-attachments/assets/3114085d-0b17-4022-b7e7-bbfad8fa33f3)
 
-Goiko irudian ikusi dezakezue guk egindako konexio esquema bertan ESP32-ra nola konektatu dituegun pantailak ikusi dezakezue. 5 pantailak berdin dijoazte konektatutak aldatzen den pin bakarra 8.pina da dela informazioa eramaten duena.Hau lortzeko Proteus aplikazioa erabili dugu.
+Goiko irudian ikusi dezakezue guk egindako konexio esquema. Bertan ESP32-ra nola konektatu dituegun pantailak ikusi dezakezue. 5 pantailak pin berdinetara dijoazte konektatutak aldatzen den pin bakarra 8.pina da. Pin hoenk, informazioa eramaten duena, hau da, pantaiak rekusten duen irudi bakoitzak behar duen informazioa pin horretatik sartuko da. konexio guztia irudikatzeko eta eskema egiteko Proteus aplikazioa erabili dugu.
 
 # [PCB Diseinua](https://github.com/FakeNixie/Fake-Nixie/tree/main/Dokumentazioa/PCB_Artxiboak)
 
 ![image](https://github.com/user-attachments/assets/d187a726-ffe8-499f-8b25-47bf2ef6fd76) ![image](https://github.com/user-attachments/assets/52a45151-aee1-48ad-89c3-de00aa218f60)
 
-Gure hurrengo pausua esquemaren pcb-a egitea izan zen hau egin genuen ez kablerik solte gelditzeko eta dena modu ordenatu batean gelditzeko. Hau lortzeko Proteus aplikazioa erabili dugu.
+Gure hurrengo pausua esquemaren pcb-a egitea izan zen. PCB-a egin genuen ez kablerik erabilteko eta dena modu ordenatu batean gelditzeko, horrela interferentziak saiestuko genituen eta konexio arazoak ekidituko genituen. Hau egiteko ere Proteus aplikazioa erabili dugu.
 
 # [Kodigoa](https://github.com/FakeNixie/Fake-Nixie/tree/main/Dokumentazioa/Arduino)
 ![image](https://github.com/user-attachments/assets/7f8ca756-9e86-4262-abbb-3f68a19a38e5)
 
-Gure kodea hasiera batean ordua erakusten du zuk emandako wifiaren bidez, zure eremuko zona hordua hartzen du eta pantailetan erakusten du. Zure erlojua beti horduan egongo da. Gero aplikazioaren bitertez bi estilo ezberdin ditugu sartutak kodigoan eta aplikazioaren bidez kodigoan sortutako web era sartu eta estiloz aldatu dezakezu. Gainera web-aren bitartez beste erloju normal batzuen bezala cronometro bat martxan jarri dezakezu eta zure erlojuan bistaratu.
+Gure kodea hasiera batean ordua erakusten zuen bakarrik zuk emandako wifiaren bidez, zure ordu-eremuko ordua hartzen du eta pantailetan erakusten du gainera ordua WiFi bidez hartzen duenez erlojua beti orduan egongo da. Gero, aplikazioa baten bitertez bi estilo ezberdin ditugu sartutak kodigoan eta aplikazioaren bidez kodigoan sortutako web era sartu eta estiloz aldatu dezakezu. Gainera web-aren bitartez beste erloju normal batzuen bezala cronometro bat martxan jarri dezakezu eta zure erlojuan bistaratu.
 
 # Elikadura
 
 ![image](https://github.com/user-attachments/assets/74cdc955-89e4-493e-a47e-16d6847cf465)
 
-Muntaiekin mukatzeko elikadura bat egin genuen gure proiektua ez egoteko konektatuta ordenagailura hau lortzeko bi portapilas hartu genituen eta kablea konektatu genuen eta azkenian guk piztu eta itzaltzeko nahi genuenean interruptre bat gehitu genuen.
-
+Muntaiekin bukatzeko elikatzeko modu bat egin genuen gure proiektua ez egoteko ordenagailura konektatuta donebora guztian, hau lortzeko bi portapilas hartu genituen eta 4 pilako portapilas batean bihurtu genuen. Hoenk 6V-ko tentsioa hematen dio ESP32ari eta piztuta egon daiteke edozien tokitan ordenagailuara konektatuta eduki gabe.
 # [Aplikazioa](https://sites.google.com/d/18WV8YJMY_IQXxaLhMr7m3VHMnpldd2XD/p/1QMYbZgTesbHUEUoDU0BAqGxNVekRPJkL/edit)
 ![image](https://github.com/user-attachments/assets/5a6a522a-c2a7-49e2-8022-3eded205d2f2)
 
-Azkenik aplikazioa egin genuen aplikazioa ez da aplkazio normal bat sites bat da ip batera eramaten dizuena. Honekin lortzen dugu aplikazio moduka bat edukkitzea bidaltzen dizuena guk nahi dugun web-era. Aplikazio honetan ikusi dezakezu hordua eta aldatu dezakezu estiloz erlojua zure gustura gelditzeko, ere kronometro bat hasi dezakezu botoi batekin eta gelditu.
+Bukatzeko aplikazioa bat egin genuen. Aplikazioa ez da aplkazio normal bat, sites bat da ip helbide batera eramaten dizuena. Honekin lortzen dugu aplikazio moduko bat edukitzera erljua konfiguratzeko web-era bideratzen diguena. Aplikazio honetan hordua ikusi dezakegu eta estiloz aldatu deazkegu erlojua gure gustura gelditzeko, kronometro bat hasi dezakezu ere botoi batekin eta gelditu.
