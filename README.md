@@ -6,6 +6,7 @@ Fake Nixie erlojuak bost pantaila erabiltzen ditu ordua modu paregabean erakuste
 Hau guztia lortzeko hainbat lekutatik atera dugu informazioa, baino gehien bat Owenderew-k egindako github-etik atera dugu:
 
 Owendrew github-a  https://github.com/owendrew/fakeNixie/blob/main/README.md
+
 ESP32ak eta pantailak imagenak erakusteko irudi konnertidorea: https://marlinfw.org/tools/rgb565/converter.html
 
 
